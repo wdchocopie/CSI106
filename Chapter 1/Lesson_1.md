@@ -26,7 +26,9 @@
 * * * Control unit \(Fetch and execute\)
 * * Input / Output -> Data in / out
 * * RAM \(Random Access Memory\) -> Store data from running program, random access, will delete when power off / done executing programs
+
 **Input Data -> Computer -> Output Data**
+
 * Program is also stored in memory
 * Using wire system
 * Memory and CPU are seperate -> issue when processing multiple commands / programs / task \(Multi threading\)
