@@ -21,9 +21,9 @@
 # Von neumann subsystem
 * Computer
 * * CPU \(Central processing unit\) -> Where calculation and command processing occur
-  * * Memory -> Store data + set of rules \(programs\)
-  * * ALU \(arithmetic logic unit\)
-  * * Control unit \(Fetch and execute\)
+    * Memory -> Store data + set of rules \(programs\)
+    * ALU \(arithmetic logic unit\)
+    * Control unit \(Fetch and execute\)
   * Input / Output -> Data in / out
   * RAM \(Random Access Memory\) -> Store data from running program, random access, will delete when power off / done executing programs
 
