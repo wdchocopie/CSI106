@@ -5,6 +5,8 @@
 * Input data -> Computer -> Output data
 * Doing single task
 
+![image](https://github.com/wdchocopie/CSI106/assets/81132394/046d46d3-0922-4fd6-8c24-9f79dbe0e3eb)
+
 ----
 # Program mable data processor
 * Program -> Computer
@@ -28,6 +30,8 @@
 * Program is also stored in memory
 * Using wire system
 * Memory and CPU are seperate -> issue when processing multiple commands / programs / task \(Multi threading\)
+
+![image](https://github.com/wdchocopie/CSI106/assets/81132394/d1139527-ea06-4e32-9ffd-f95f9c1c400e)
 
 ----
 # Sequential execution
@@ -102,3 +106,6 @@ Understanding and Analyzing network and security to prevent risk
 * Control unit : Fetch and execute commands
 * ALU : Calculation with logical gate\(NOT, AND, OR, XOR\)
 * Cache memory : Store data temporary for CPU.
+
+![image](https://github.com/wdchocopie/CSI106/assets/81132394/d7000f5e-2235-43ef-98a7-2e9a976df781)
+
