@@ -11,6 +11,7 @@
 # Program mable data processor
 * Program -> Computer
 * Input + program -> Output
+* Program = Data + instruction
 
 ----
 # Turing machine
