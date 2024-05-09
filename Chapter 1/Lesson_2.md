@@ -59,8 +59,13 @@
 ----
 # Memory hỉeachy
 **Register -> Cache -> main**
+
 Fast -> Slow
+
 More costly -> Less Costly
+
+![image](https://github.com/wdchocopie/CSI106/assets/81132394/5484fcde-4323-428d-b01b-fcd0dd33d8f6)
+
 
 ----
 # Cache Memory
@@ -68,6 +73,9 @@ More costly -> Less Costly
 * Slower than CPU & Register
 * Smaller in size
 * Place between memory
+
+![image](https://github.com/wdchocopie/CSI106/assets/81132394/64b022b6-df37-4564-b90b-a206eeceb506)
+
 
 ----
 # Non-storage & Storage devices
@@ -102,8 +110,16 @@ More costly -> Less Costly
 ----
 # Type of controller
 * SCSI
+
+![image](https://github.com/wdchocopie/CSI106/assets/81132394/80931789-a992-4975-8f31-a9cd1c733ab7)
+
 * FireWire
+
+![image](https://github.com/wdchocopie/CSI106/assets/81132394/9f8f3be2-56b7-4fb3-88ca-619cac6d0d54)
+
 * USB
+
+![image](https://github.com/wdchocopie/CSI106/assets/81132394/31bc4782-9d0a-4384-88b2-afaac2eac69c)
 
 ----
 # Architecture
