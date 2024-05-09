@@ -74,24 +74,24 @@ Understanding and Analyzing network and security to prevent risk
 
 ----
 # Computer generations
-* First Gen : Using vacuum ball\(bóng chân không\) and wires to calculate and store data
+* First Gen : Using vacuum ball\(bóng chân không\) and wires to calculate and store data \(1940 - 1956\)
 * * Main Electric Component: Vacuum tube
 * * Programing language: Machine Language
 * * Main memory: Magnetic tapes and drumbs
 * * I/O: Paper tapes and punched cards
 * * Speed and size: Large and slow
-* Second Gen : Replacing vacuum ball with transitor -> Smaller, energy saving, programable
+* Second Gen : Replacing vacuum ball with transitor -> Smaller, energy saving, programable \(1956 - 1963\)
 * * Main electric component: Transistor
 * * Programming language : Machine / Assembly language
 * * Memory : Magnetic core / tape
 * * I/O: Magnetic tape and punched cards.
 * * Power and size: Smaller than first gen, generate less heat
-* Third Gen : IC \(Intergrated Circuis) -> Multiple component on a chip -> have bigger program call OS\(Operating system\) with multitaks\(đa nhiệm), Have programming language such as Pascal, Basic,....
+* Third Gen : IC \(Intergrated Circuis) -> Multiple component on a chip -> have bigger program call OS\(Operating system\) with multitaks\(đa nhiệm), Have programming language such as Pascal, Basic,.... \(1963 -1971\)
 * * Main Electric component : Intergrated Circuits \(IC's\)
 * * Programing language : High-level language
 * * I/O : Magnetic tape, monitor,...
 * * Memory: Large magnetic core, magnetic tape / disk
-* Fourth Gen : Core I 3, 5, 7, 9,.... -> Have Desktop, Laptop
+* Fourth Gen : Core I 3, 5, 7, 9,.... -> Have Desktop, Laptop \(1971 - now)
 * * Main Electric Component: Very-Large-Scale intergration
 * * Memory: Semiconductor memory \(Ram, Rom,...\)
 * * I/O : Pointing device, keyboard,...
