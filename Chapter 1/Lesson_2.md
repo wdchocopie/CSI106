@@ -14,7 +14,7 @@
 # ALU (arithmetic logic unit)
 * Perform logic, shift and arithmetic operation on data
 * Logic Operations: NOT, AND, OR, XOR
-* Shift Operations: Logic shift operation and arithmetic shift operation \(>> << in c\)
+* Shift Operations: Logic shift operation and arithmetic shift operation \(`>>` `<<` in c\)
 * Arithmetic operation: Interger and reals
 
 ----
