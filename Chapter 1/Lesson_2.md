@@ -44,6 +44,7 @@
 * Hardware level identified by an address
 * Total number of identifiable locations called address space
 * Kilobyte -> Megabyte -> gigabyte -> terabyte \(i*=2^10\)
+* Calculate address space\(memory locations possible\): \(2^n-bit address bus\) * \(word size in bits / 8\) 
 
 ----
 # Memory type
