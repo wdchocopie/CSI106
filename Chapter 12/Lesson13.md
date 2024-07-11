@@ -5,22 +5,26 @@
 * Integrity
 * Availability
 
-[image]
+![image](https://github.com/wdchocopie/CSI106/assets/81132394/888f4bf5-4de7-4a31-9aa4-6b6ce2de5fa0)
 
 ---
 # Attack
 
-[image]
+![image](https://github.com/wdchocopie/CSI106/assets/81132394/ec994a39-0eb7-4b0b-9428-4ec871f275ce)
 
 ---
 # Service and technique
 * Cryptography
+
+![image](https://github.com/wdchocopie/CSI106/assets/81132394/43e113e8-c53c-4874-8203-09f833e35c60)
+
 * Steganography
+
+![image](https://github.com/wdchocopie/CSI106/assets/81132394/e014ddcc-6803-400b-9d9c-72ecbd9f9886)
 
 ---
 # Symmetric key cypher
 
-[image]
 
 ---
 # asymmetric key cypher
@@ -31,22 +35,30 @@
 ----
 # Ethical principle
 
-[image]
+![image](https://github.com/wdchocopie/CSI106/assets/81132394/bcba4acf-7c4e-41e8-a5ca-4ba3494cb292)
 
 ----
 # Moral Rules
+The first ethical principle states that when we make an ethical decision, we need to consider if the decision is made in accordance with a universally accepted principle of morality.
 
-[image]
+![image](https://github.com/wdchocopie/CSI106/assets/81132394/ca404a62-98eb-47f2-bf3a-ea578e8f184f)
 
 ----
 # Ultilize
 
-[image]
+The second theory of ethics is related to the consequences of the act. An act is ethical if it results in consequences which are useful for society.
+
+![image](https://github.com/wdchocopie/CSI106/assets/81132394/f818460d-16e9-4171-843a-e39673269613)
 
 ---
 # Social Contract
 
-[image]
+**The social contract** theory says that an act is ethical when a majority of people in society agrees with it. If someone breaks into somebody else’s house and commits a robbery, does this act receive the approval of a majority of society? Since the answer is negative, this act is not ethical.
+![image](https://github.com/wdchocopie/CSI106/assets/81132394/72e7efff-2087-40a9-aa5d-1afa8135aa3c)
+
+
+![image](https://github.com/wdchocopie/CSI106/assets/81132394/36aa6338-43d2-46a5-a555-e1fd56954a9f)
+
 ----
 # Privacy
 1. Collect only data that are needed.
@@ -65,7 +77,7 @@
 * **Red Hat** Hacker The objective of a red hat hacker is to find black hat hackers, intercept and destroy their schemes.
 * **Green Hat** Hacker This is the set of individuals who simply want to observe and learn about the world of hacking. It comprises those who join learning communities to watch videos and tutorials about hacking.
 
-[image]
+![image](https://github.com/wdchocopie/CSI106/assets/81132394/805e43d1-ecb4-4a1d-8d28-80a89752a059)
 
 ---
 # Common types of hacking
