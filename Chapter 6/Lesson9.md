@@ -141,4 +141,4 @@ Sorted Array:
 ----
 # Binary search
 
-![image]
+![image](https://github.com/wdchocopie/CSI106/assets/81132394/90fb84d2-a950-4117-81c5-1c88b21d5a50)
