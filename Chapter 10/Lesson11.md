@@ -1,8 +1,8 @@
 # file structure
 ----
-* sequential files
-* indexed files
-* hashed files
+* Sequential files
+* Indexed files
+* Hashed files
 
 ----
 # Collision resolution
