@@ -25,6 +25,7 @@
 ---
 # Symmetric key cypher
 
+![image](https://github.com/wdchocopie/CSI106/assets/81132394/33a373d0-7ea2-4211-98f9-9682f656d6ac)
 
 ---
 # asymmetric key cypher
